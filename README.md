@@ -1,3 +1,8 @@
+# THIS IS JUST A COPY OF THE ORIGINAL PACKAGE, BECAUSE THE VITE FIX WASN'T PUBLISHED
+# IF YOU SOMEHOW STUMBLE UPON THIS REPO, PLEASE KNOW THAT I NEITHER OWN NOR MAINTAIN
+# THE CODE
+
+
 [![npm version](https://badge.fury.io/js/react-barcode-reader.svg)](https://badge.fury.io/js/react-barcode-reader)
 
 ## Introduction

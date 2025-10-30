@@ -1,6 +1,6 @@
 {
   "name": "copy-of-react-barcode-reader",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Copy of with vite fix - A react component for reading barcodes and Qr codes from keybord input devices.",
   "main": "./lib/index.js",
   "exports": {
